@@ -11,7 +11,7 @@ Create different expressions to your model.
 * Generate faces.
 
 ## Usage
-<img src="assets/result.png" alt="Result"/>
+<img src="assets/node.png" alt="Node"/>
 
 ## Result
 <img src="assets/result.png" alt="Result"/>
