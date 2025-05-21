@@ -2,6 +2,10 @@
 
 Create different expressions to your model.
 
+## Download on civitai
+
+<a href="https://civitai.com/models/1182357">Face Generator</a>
+
 ## How to use.
 
 * Upload the image.
